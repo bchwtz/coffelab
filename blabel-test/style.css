@@ -1,0 +1,29 @@
+@page {
+    width: 62mm;
+    height: 26mm;
+    padding: 2mm;
+}
+img {
+    height: 22mm;
+    display: inline-block;
+    vertical-align: middle;
+    image-rendering: pixelated;
+    padding-top: 1mm;
+    padding-left: 2mm;
+    padding-right: 2mm;
+}
+.label {
+    font-family: Arial, Verdana, Helvetica, sans;
+    font-weight: bold;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 14px;
+}
+.calltoaction {
+    font-size: 17px;
+    line-height:90%;
+}
+
+.lastline {
+    font-size: 6px;
+}
